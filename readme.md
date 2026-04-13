@@ -1,1 +1,1 @@
-This repo has all endpoints that users require for reg/login/logout/password-reset
+This repository includes all the endpoints users need for registration, login, logout, and password reset.
